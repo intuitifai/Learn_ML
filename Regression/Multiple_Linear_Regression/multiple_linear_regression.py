@@ -5,6 +5,7 @@ Created on Sun Jun  7 20:31:32 2020
 @author: Rahul Kumar
 """
 import numpy as np
+import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
