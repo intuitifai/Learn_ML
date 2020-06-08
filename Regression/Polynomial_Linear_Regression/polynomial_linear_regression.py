@@ -41,6 +41,7 @@ plt.show()
 
 print("Why Linear Model doesn't predict correctly?")
 print("Answer: The plotted graph shows the salary to be way above correct one")
-print("Which is = ",linear_regressor.predict([[6.5]]))
+print("Which is = ", linear_regressor.predict([[6.5]]))
 print("But the polynomial graph actually predicts the correct salary")
-print("Which is = ",linear_regressor_2.predict(polynomial_regressor.fit_transform([[6.5]])))
+print("Which is = ", linear_regressor_2.predict(
+    polynomial_regressor.fit_transform([[6.5]])))
