@@ -12,3 +12,10 @@ The output of a simple linear regression on the sample dataset stored in the rep
 The predicted output of a simple linear regression on the sample dataset stored in the repository is:
 
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Regression/Simple_Linear_Regression/Test_set_Simple_Regression.png)
+
+## Polynomial Linear Regression
+The output of a polynomial linear regression on the sample dataset stored in the repository is:
+![](https://github.com/rahulkumar082/Learn_ML/blob/master/Regression/Polynomial_Linear_Regression/Linear_image.png)
+
+## Support Vector Regression
+TBD
