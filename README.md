@@ -24,3 +24,7 @@ The output of a polynomial linear regression on the sample dataset stored in the
 ## Decision Tree Regression
 The output of a decision tree regression on the sample dataset stored in the repository is:
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Regression/Decision_Tree_Regression/decision_tree_regression.png)
+
+## Random Forest Regression
+The output of a random forest regression on the sample dataset stored in the repository is:
+~[](https://github.com/rahulkumar082/Learn_ML/blob/master/Regression/Random_Forest_Regression/random_forest_regression.png)
