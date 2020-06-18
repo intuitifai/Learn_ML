@@ -1,6 +1,8 @@
 # Learn_ML
 This repository is for the purpose of Learning Machine_Learning
 
+# Regression
+
 ## Simple Linear Regression
 
 ### On the Training set
@@ -28,3 +30,9 @@ The output of a decision tree regression on the sample dataset stored in the rep
 ## Random Forest Regression
 The output of a random forest regression on the sample dataset stored in the repository is:
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Regression/Random_Forest_Regression/random_forest_regression.png)
+
+# Classification
+
+## Logistic Regression
+The predicted output of a logistic regression on the sample dataset stored in the repository is:
+![](https://github.com/rahulkumar082/Learn_ML/blob/master/Classification/Logistic_Regression/log_training_set.png)
