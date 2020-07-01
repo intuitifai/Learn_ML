@@ -36,3 +36,14 @@ The output of a random forest regression on the sample dataset stored in the rep
 ## Logistic Regression
 The predicted output of a logistic regression on the sample dataset stored in the repository is:
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Classification/Logistic_Regression/log_training_set.png)
+
+## Several other classiification techniques are:
+* 
+
+# Clustering
+
+## K-means
+### Elbow diagram
+The predicted output of elbow diagram on the sample dataset stored in the repository is:
+![](https://github.com/rahulkumar082/Learn_ML/blob/master/Clustering/K_means_clustering/elbow_diagram.png)
+This diagram suggests that the desired clusters should be 5 for better efficiency. 
