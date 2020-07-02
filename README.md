@@ -47,7 +47,8 @@ The predicted output of a logistic regression on the sample dataset stored in th
 The predicted output of elbow diagram on the sample dataset stored in the repository is:
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Clustering/K_means_clustering/elbow_diagram.png)
 
-This diagram suggests that the desired clusters should be 5 for better efficiency.   
+This diagram suggests that the desired clusters should be 5 for better efficiency. 
+
 ### Clusters
-The clusters formed on the sample dataset stored in the repository is:
+The clusters formed on the sample dataset stored in the repository is:  
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Clustering/K_means_clustering/cluster.png)
