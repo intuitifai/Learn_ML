@@ -52,3 +52,14 @@ This diagram suggests that the desired clusters should be 5 for better efficienc
 ### Clusters
 The clusters formed on the sample dataset stored in the repository is:  
 ![](https://github.com/rahulkumar082/Learn_ML/blob/master/Clustering/K_means_clustering/cluster.png)
+
+## Hierarchical Clustering
+### Dendrograms
+The predicted output of dendrogram obtained from the sample dataset after applying hierarchical clustering is:
+![](https://github.com/rahulkumar082/Learn_ML/blob/master/Clustering/Hierarchical_clustering/dendrogram.png)
+
+### Agglomerative clusters
+Other than dendrograms, we can put the dataset for Agglomerative clustering and obtain the following output:
+![](https://github.com/rahulkumar082/Learn_ML/blob/master/Clustering/Hierarchical_clustering/agglomerative_clusters.png)
+
+With the cluter quantitiy as 5, the output is pretty similar to what we obtain in the K-Means clustering
