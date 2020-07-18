@@ -20,6 +20,7 @@ from sklearn.model_selection import train_test_split
 from csv import writer
 from sklearn.metrics import confusion_matrix, accuracy_score
 
+
 def copy_csv(file_name):
     new_dataset = pd.read_csv(file_name)
     df = new_dataset.iloc[:, 1:]
@@ -66,13 +67,11 @@ if __name__ == "__main__":
     x[:, 2] = le.fit_transform(x[:, 2])
     x_cp[:, 2] = le.fit_transform(x_cp[:, 2])
 
-
     # One Hot Encoding for Geography column
     ct = ColumnTransformer(transformers=[('encoder', OneHotEncoder(), [1])],
-                            remainder='passthrough')
+                           remainder='passthrough')
     x = np.array(ct.fit_transform(x))
     x_cp = np.array(ct.fit_transform(x_cp))
-
 
     # Split the dataset into Training and Test Set
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.25,
